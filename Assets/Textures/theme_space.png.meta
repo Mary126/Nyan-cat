@@ -1,0 +1,3864 @@
+fileFormatVersion: 2
+guid: cad687d1d9c6859448a402be3ae89bc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3034239305035708148
+    second: theme_space_0
+  - first:
+      213: 3138213845838907476
+    second: theme_space_1
+  - first:
+      213: -4353899381248813895
+    second: theme_space_2
+  - first:
+      213: -1751287395073622854
+    second: theme_space_3
+  - first:
+      213: -2303202266663101964
+    second: theme_space_4
+  - first:
+      213: -8177185665069328549
+    second: theme_space_5
+  - first:
+      213: 8476598676111217361
+    second: theme_space_6
+  - first:
+      213: 8294358891164356886
+    second: theme_space_7
+  - first:
+      213: 3354787383971776671
+    second: theme_space_8
+  - first:
+      213: -7440121993909079073
+    second: theme_space_9
+  - first:
+      213: -8202802884851726514
+    second: theme_space_10
+  - first:
+      213: 588649683965059925
+    second: theme_space_11
+  - first:
+      213: -4505853144048120542
+    second: theme_space_12
+  - first:
+      213: -8781798231480328095
+    second: theme_space_13
+  - first:
+      213: -4116586562102764763
+    second: theme_space_14
+  - first:
+      213: -306834583567243329
+    second: theme_space_15
+  - first:
+      213: -5786628362529879394
+    second: theme_space_16
+  - first:
+      213: 2850691774833057000
+    second: theme_space_17
+  - first:
+      213: 9014026532367762276
+    second: theme_space_18
+  - first:
+      213: 5085316795000094182
+    second: theme_space_19
+  - first:
+      213: -6761892043828620030
+    second: theme_space_20
+  - first:
+      213: -6350484304386458212
+    second: theme_space_21
+  - first:
+      213: 1967892436938785609
+    second: theme_space_22
+  - first:
+      213: -2113886979829896952
+    second: theme_space_23
+  - first:
+      213: -4685389273933448141
+    second: theme_space_24
+  - first:
+      213: -3329538413410824126
+    second: theme_space_25
+  - first:
+      213: 2632880153935949587
+    second: theme_space_26
+  - first:
+      213: 1692391569098722111
+    second: theme_space_27
+  - first:
+      213: -541747744195535446
+    second: theme_space_28
+  - first:
+      213: -3810144265721799194
+    second: theme_space_29
+  - first:
+      213: 1022469355384575012
+    second: theme_space_30
+  - first:
+      213: -7328616424073520041
+    second: theme_space_31
+  - first:
+      213: -8020671868386013732
+    second: theme_space_32
+  - first:
+      213: 5875411718983651921
+    second: theme_space_33
+  - first:
+      213: -1697133821579565404
+    second: theme_space_34
+  - first:
+      213: 7962971454801210136
+    second: theme_space_35
+  - first:
+      213: 7300033121524236584
+    second: theme_space_36
+  - first:
+      213: 3277162758234791802
+    second: theme_space_37
+  - first:
+      213: 5940044544735936249
+    second: theme_space_38
+  - first:
+      213: 5085892001617996887
+    second: theme_space_39
+  - first:
+      213: -2857292351711727935
+    second: theme_space_40
+  - first:
+      213: -4923716605905301639
+    second: theme_space_41
+  - first:
+      213: 8638166467065652557
+    second: theme_space_42
+  - first:
+      213: -3481246464642929037
+    second: theme_space_43
+  - first:
+      213: 9010039888834846892
+    second: theme_space_44
+  - first:
+      213: 1141931623981415201
+    second: theme_space_45
+  - first:
+      213: -7135126126539967577
+    second: theme_space_46
+  - first:
+      213: 2615088232084473154
+    second: theme_space_47
+  - first:
+      213: 4547019241648377003
+    second: theme_space_48
+  - first:
+      213: -4396096538497812712
+    second: theme_space_49
+  - first:
+      213: -3984091751215633426
+    second: theme_space_50
+  - first:
+      213: 5417030195308519902
+    second: theme_space_51
+  - first:
+      213: 7851954259157671666
+    second: theme_space_52
+  - first:
+      213: 3658769157338355007
+    second: theme_space_53
+  - first:
+      213: -1730350205221619570
+    second: theme_space_54
+  - first:
+      213: -7621862349291023788
+    second: theme_space_55
+  - first:
+      213: 2682129232088199232
+    second: theme_space_56
+  - first:
+      213: 5734413814501145098
+    second: theme_space_57
+  - first:
+      213: -3967693325725865836
+    second: theme_space_58
+  - first:
+      213: -3186794203681146239
+    second: theme_space_59
+  - first:
+      213: -1428800147028114652
+    second: theme_space_60
+  - first:
+      213: 1985601540835444565
+    second: theme_space_61
+  - first:
+      213: -1615466172720780027
+    second: theme_space_62
+  - first:
+      213: 8314077174404067965
+    second: theme_space_63
+  - first:
+      213: -2616685111697847564
+    second: theme_space_64
+  - first:
+      213: 2934683792489811740
+    second: theme_space_65
+  - first:
+      213: 4662368669485957542
+    second: theme_space_66
+  - first:
+      213: -4302595033899651272
+    second: theme_space_67
+  - first:
+      213: -2912420641236607259
+    second: theme_space_68
+  - first:
+      213: -8786602585325737283
+    second: theme_space_69
+  - first:
+      213: -3080925360403331324
+    second: theme_space_70
+  - first:
+      213: 241113530910595880
+    second: theme_space_71
+  - first:
+      213: -1569571348680266762
+    second: theme_space_72
+  - first:
+      213: 8507399295329104761
+    second: theme_space_73
+  - first:
+      213: -3785661984756350832
+    second: theme_space_74
+  - first:
+      213: -3687691408534239451
+    second: theme_space_75
+  - first:
+      213: -988654417272457739
+    second: theme_space_76
+  - first:
+      213: -7240768675927245062
+    second: theme_space_77
+  - first:
+      213: -4415562341926841014
+    second: theme_space_78
+  - first:
+      213: 970011640708341291
+    second: theme_space_79
+  - first:
+      213: -3793809603523481819
+    second: theme_space_80
+  - first:
+      213: -7581354345429227740
+    second: theme_space_81
+  - first:
+      213: 4980229587479214429
+    second: theme_space_82
+  - first:
+      213: -1784518257685456740
+    second: theme_space_83
+  - first:
+      213: 6766536832622690824
+    second: theme_space_84
+  - first:
+      213: 5733823399712953226
+    second: theme_space_85
+  - first:
+      213: -904158398363015179
+    second: theme_space_86
+  - first:
+      213: 4195198911925702852
+    second: theme_space_87
+  - first:
+      213: -1822720470972202111
+    second: theme_space_88
+  - first:
+      213: -793505781358661120
+    second: theme_space_89
+  - first:
+      213: -73623849951286888
+    second: theme_space_90
+  - first:
+      213: 5703275660493417109
+    second: theme_space_91
+  - first:
+      213: -1661366634468323919
+    second: theme_space_92
+  - first:
+      213: -1200471307994723235
+    second: theme_space_93
+  - first:
+      213: -7511519202293298161
+    second: theme_space_94
+  - first:
+      213: 1107355516968510637
+    second: theme_space_95
+  - first:
+      213: 1108058650725420184
+    second: theme_space_96
+  - first:
+      213: -4571163274720338376
+    second: theme_space_97
+  - first:
+      213: 1543117554670971589
+    second: theme_space_98
+  - first:
+      213: -5268800415144866993
+    second: theme_space_99
+  - first:
+      213: 65836023668999981
+    second: theme_space_100
+  - first:
+      213: 599955363061435806
+    second: theme_space_101
+  - first:
+      213: -5108895758990063725
+    second: theme_space_102
+  - first:
+      213: -138040909363188163
+    second: theme_space_103
+  - first:
+      213: 5285644225323308419
+    second: theme_space_104
+  - first:
+      213: -7133720273380652872
+    second: theme_space_105
+  - first:
+      213: -9156291641719066343
+    second: theme_space_106
+  - first:
+      213: 6342134482005704077
+    second: theme_space_107
+  - first:
+      213: -5982793568439844632
+    second: theme_space_108
+  - first:
+      213: 472994204600650943
+    second: theme_space_109
+  - first:
+      213: 1059908096740431218
+    second: theme_space_110
+  - first:
+      213: -2955909780079702588
+    second: theme_space_111
+  - first:
+      213: 1826008874943776379
+    second: theme_space_112
+  - first:
+      213: 8348103045305666526
+    second: theme_space_113
+  - first:
+      213: 4024216680615364234
+    second: theme_space_114
+  - first:
+      213: -4359804794128789552
+    second: theme_space_115
+  - first:
+      213: -5977036007761444405
+    second: theme_space_116
+  - first:
+      213: 5757735203422777396
+    second: theme_space_117
+  - first:
+      213: -2707062116507486617
+    second: theme_space_118
+  - first:
+      213: -3696807503768960961
+    second: theme_space_119
+  - first:
+      213: 1630098257270420622
+    second: theme_space_120
+  - first:
+      213: 2391797654164388520
+    second: theme_space_121
+  - first:
+      213: -9146917526848425660
+    second: theme_space_122
+  - first:
+      213: -8987291662178338270
+    second: theme_space_123
+  - first:
+      213: 7740671180583603156
+    second: theme_space_124
+  - first:
+      213: -8203224884479439739
+    second: theme_space_125
+  - first:
+      213: -3573607967348973904
+    second: theme_space_126
+  - first:
+      213: -3705848576046344197
+    second: theme_space_127
+  - first:
+      213: 5798462722623745572
+    second: theme_space_128
+  - first:
+      213: -7936352526239842107
+    second: theme_space_129
+  - first:
+      213: 4236040898722175268
+    second: theme_space_130
+  - first:
+      213: -8629806831501243234
+    second: theme_space_131
+  - first:
+      213: -2413749180934383453
+    second: theme_space_132
+  - first:
+      213: 4388477797633047741
+    second: theme_space_133
+  - first:
+      213: -5815552025538000410
+    second: theme_space_134
+  - first:
+      213: -1105423952980861508
+    second: theme_space_135
+  - first:
+      213: -1410947189737378436
+    second: theme_space_136
+  - first:
+      213: 5840308562685401106
+    second: theme_space_137
+  - first:
+      213: 4341668954999221386
+    second: theme_space_138
+  - first:
+      213: 5188802886060357264
+    second: theme_space_139
+  - first:
+      213: 4962547116051819570
+    second: theme_space_140
+  - first:
+      213: 6851060088537400333
+    second: theme_space_141
+  - first:
+      213: 5963746771470930417
+    second: theme_space_142
+  - first:
+      213: -7239808159413531013
+    second: theme_space_143
+  - first:
+      213: -2826316310678925021
+    second: theme_space_144
+  - first:
+      213: -8158474644926459981
+    second: theme_space_145
+  - first:
+      213: -3079474907817353019
+    second: theme_space_146
+  - first:
+      213: 8073845872446533480
+    second: theme_space_147
+  - first:
+      213: -8208866033313713919
+    second: theme_space_148
+  - first:
+      213: -8914404402029887889
+    second: theme_space_149
+  - first:
+      213: 6186034187811110620
+    second: theme_space_150
+  - first:
+      213: 2511608117977119854
+    second: theme_space_151
+  - first:
+      213: -6298572176708764662
+    second: theme_space_152
+  - first:
+      213: -9096216781414478977
+    second: theme_space_153
+  - first:
+      213: -9121590253791117485
+    second: theme_space_154
+  - first:
+      213: 3086548767327407249
+    second: theme_space_155
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: theme_space_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0981db9d6734e5d0800000000000000
+      internalID: -3034239305035708148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 959
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458c076addc2d8b20800000000000000
+      internalID: 3138213845838907476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1008
+        width: 120
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b41fd8a497d393c0800000000000000
+      internalID: -4353899381248813895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 975
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc7405946d22b7e0800000000000000
+      internalID: -1751287395073622854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1008
+        width: 240
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9dba9cdb16900e0800000000000000
+      internalID: -2303202266663101964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 975
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57502356fcc48e80800000000000000
+      internalID: -8177185665069328549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 992
+        width: 120
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2d721c59de2a570800000000000000
+      internalID: 8476598676111217361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 992
+        width: 239
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6115473577b7b1370800000000000000
+      internalID: 8294358891164356886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 976
+        width: 120
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98899ee9599e8e20800000000000000
+      internalID: 3354787383971776671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 976
+        width: 240
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd37a7b47706fb890800000000000000
+      internalID: -7440121993909079073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 960
+        width: 120
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e470ddd8c3ac92e80800000000000000
+      internalID: -8202802884851726514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 942
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55322edc4cd4b2800800000000000000
+      internalID: 588649683965059925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_12
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 960
+        width: 240
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d4fe2407ef771c0800000000000000
+      internalID: -4505853144048120542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_13
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 925
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16026735909c02680800000000000000
+      internalID: -8781798231480328095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 894
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bd7b61552fed6c0800000000000000
+      internalID: -4116586562102764763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 944
+        width: 120
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb76ba96297edbbf0800000000000000
+      internalID: -306834583567243329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 926
+        width: 72
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ac434c924c1bfa0800000000000000
+      internalID: -5786628362529879394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 917
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec5d0bc011bf8720800000000000000
+      internalID: 2850691774833057000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_18
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 917
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4630ab17f51481d70800000000000000
+      internalID: 9014026532367762276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_19
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 934
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edfe409eaca29640800000000000000
+      internalID: 5085316795000094182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_20
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 889
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2051e0e130fe822a0800000000000000
+      internalID: -6761892043828620030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 896
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9df955eb2c8ed7a0800000000000000
+      internalID: -6350484304386458212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 898
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9430aebbebb5f4b10800000000000000
+      internalID: 1967892436938785609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 897
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8096aefddf6f9a2e0800000000000000
+      internalID: -2113886979829896952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_24
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 883
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c75c497472afeb0800000000000000
+      internalID: -4685389273933448141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_25
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 874
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24051a2247a1bc1d0800000000000000
+      internalID: -3329538413410824126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_26
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 875
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f2787ec8ed98420800000000000000
+      internalID: 2632880153935949587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_27
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 897
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bcef85a259c7710800000000000000
+      internalID: 1692391569098722111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 829
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad1b550c435b78f0800000000000000
+      internalID: -541747744195535446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 880
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed19a23af5af1bc0800000000000000
+      internalID: -3810144265721799194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_30
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 856
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4249b61267a803e00800000000000000
+      internalID: 1022469355384575012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 840
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c1104e0368b4a90800000000000000
+      internalID: -7328616424073520041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_32
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 846
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd02e85e69d0b090800000000000000
+      internalID: -8020671868386013732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_33
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 838
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152103344d7a98150800000000000000
+      internalID: 5875411718983651921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 825
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6e274f7c19278e0800000000000000
+      internalID: -1697133821579565404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 834
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b60083958228e60800000000000000
+      internalID: 7962971454801210136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_36
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 826
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821c901627dee4560800000000000000
+      internalID: 7300033121524236584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_37
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 834
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f59bb5a22da7d20800000000000000
+      internalID: 3277162758234791802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_38
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 855
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe7bfeaa074f6250800000000000000
+      internalID: 5940044544735936249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_39
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 821
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ce07a44d7b49640800000000000000
+      internalID: 5085892001617996887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_40
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 833
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce28c4aebbd858d0800000000000000
+      internalID: -2857292351711727935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_41
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 806
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f825a75d17babb0800000000000000
+      internalID: -4923716605905301639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_42
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 841
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45a32482aee0e770800000000000000
+      internalID: 8638166467065652557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 798
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37eaf5be8c020bfc0800000000000000
+      internalID: -3481246464642929037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_44
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 789
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0e91aaa871a0d70800000000000000
+      internalID: 9010039888834846892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_45
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 800
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b723503c4f8df00800000000000000
+      internalID: 1141931623981415201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_46
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 793
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3f9f76790fafc90800000000000000
+      internalID: -7135126126539967577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_47
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 827
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24503b944e8aa4420800000000000000
+      internalID: 2615088232084473154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 786
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac415db8e14a1f30800000000000000
+      internalID: 4547019241648377003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_49
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 767
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81773806d7dedf2c0800000000000000
+      internalID: -4396096538497812712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_50
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 774
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb6a3039a9a5b8c0800000000000000
+      internalID: -3984091751215633426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_51
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 785
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1ede013482d2b40800000000000000
+      internalID: 5417030195308519902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_52
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 806
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe55b91cceb7fc60800000000000000
+      internalID: 7851954259157671666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_53
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 805
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35de42e92f86c230800000000000000
+      internalID: 3658769157338355007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_54
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 765
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88bdb8f7af8cf7e0800000000000000
+      internalID: -1730350205221619570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_55
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 759
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452959f5394b93690800000000000000
+      internalID: -7621862349291023788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_56
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 780
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040fe487356d83520800000000000000
+      internalID: 2682129232088199232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_57
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 784
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0afe686bfab49f40800000000000000
+      internalID: 5734413814501145098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_58
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 752
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498eb6621fbefe8c0800000000000000
+      internalID: -3967693325725865836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_59
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 773
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18abf4d5e8b36c3d0800000000000000
+      internalID: -3186794203681146239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_60
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 765
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4230d5d16d1eb2ce0800000000000000
+      internalID: -1428800147028114652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_61
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 789
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55707fac4164e8b10800000000000000
+      internalID: 1985601540835444565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_62
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 744
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d61543316b499e0800000000000000
+      internalID: -1615466172720780027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 749
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72b987e329816370800000000000000
+      internalID: 8314077174404067965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_64
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 731
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa423431caafabd0800000000000000
+      internalID: -2616685111697847564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 758
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f83735c571ab820800000000000000
+      internalID: 2934683792489811740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_66
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 744
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a10f944a9f04b040800000000000000
+      internalID: 4662368669485957542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_67
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 766
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f2d00ec9c1a44c0800000000000000
+      internalID: -4302595033899651272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_68
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 752
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee93928bd00597d0800000000000000
+      internalID: -2912420641236607259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_69
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 764
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba61278087bf0680800000000000000
+      internalID: -8786602585325737283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_70
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 702
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407caa945ba5e35d0800000000000000
+      internalID: -3080925360403331324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_71
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 713
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b57789a7b985300800000000000000
+      internalID: 241113530910595880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_72
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 706
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb2840ac23c73ae0800000000000000
+      internalID: -1569571348680266762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_73
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 718
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973ff70c59a501670800000000000000
+      internalID: 8507399295329104761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_74
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 742
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090c5ee6b70a67bc0800000000000000
+      internalID: -3785661984756350832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_75
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 743
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5278e01c330b2dcc0800000000000000
+      internalID: -3687691408534239451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_76
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 740
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5badcab089742f0800000000000000
+      internalID: -988654417272457739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_77
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 724
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeb492a04f938b90800000000000000
+      internalID: -7240768675927245062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_78
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 703
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45dbd5d175c8b2c0800000000000000
+      internalID: -4415562341926841014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_79
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 726
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e1a68a27c267d00800000000000000
+      internalID: 970011640708341291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_80
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 718
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f648c144ea95bc0800000000000000
+      internalID: -3793809603523481819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_81
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 732
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427a35cf36e99c690800000000000000
+      internalID: -7581354345429227740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_82
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 729
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59b6956c645d1540800000000000000
+      internalID: 4980229587479214429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_83
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 689
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c989573791e1c37e0800000000000000
+      internalID: -1784518257685456740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_84
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 721
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802821c066197ed50800000000000000
+      internalID: 6766536832622690824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_85
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 718
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8396b0c002a29f40800000000000000
+      internalID: 5733823399712953226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_86
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 707
+        width: 60
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7e2e42ab8c373f0800000000000000
+      internalID: -904158398363015179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_87
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 702
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0df6bee27583a30800000000000000
+      internalID: 4195198911925702852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_88
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 653
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1838eda836564b6e0800000000000000
+      internalID: -1822720470972202111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_89
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 664
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002f5ee22b6ecf4f0800000000000000
+      internalID: -793505781358661120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_90
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 702
+        width: 60
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89928a0af7f6afef0800000000000000
+      internalID: -73623849951286888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_91
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 680
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a67d7fefa162f40800000000000000
+      internalID: 5703275660493417109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_92
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 702
+        width: 60
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd44d629d3a1f8e0800000000000000
+      internalID: -1661366634468323919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_93
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 656
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c0deba4b1175fe0800000000000000
+      internalID: -1200471307994723235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_94
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 662
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c48cf4519b1c790800000000000000
+      internalID: -7511519202293298161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_95
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 683
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da42af4c9fd1e5f00800000000000000
+      internalID: 1107355516968510637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_96
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 658
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c89cad87d906f00800000000000000
+      internalID: 1108058650725420184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_97
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 648
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e9bff7837ff80c0800000000000000
+      internalID: -4571163274720338376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_98
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 685
+        width: 60
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca25dc7d314a6510800000000000000
+      internalID: 1543117554670971589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_99
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 661
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b0cde00f571e6b0800000000000000
+      internalID: -5268800415144866993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_100
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 661
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d270734c385e9e000800000000000000
+      internalID: 65836023668999981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_101
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 669
+        width: 60
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d0e585938735800800000000000000
+      internalID: 599955363061435806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_102
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 639
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397c5e2106e8919b0800000000000000
+      internalID: -5108895758990063725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_103
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 621
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e6fe83684951ef0800000000000000
+      internalID: -138040909363188163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_104
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 655
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3859d7b1b616a5940800000000000000
+      internalID: 5285644225323308419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_105
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 623
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8c42a153feffc90800000000000000
+      internalID: -7133720273380652872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_106
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 635
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911f47393415ee080800000000000000
+      internalID: -9156291641719066343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_107
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 624
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8db4b595b9c30850800000000000000
+      internalID: 6342134482005704077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_108
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 649
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0c6ac92f8d8fca0800000000000000
+      internalID: -5982793568439844632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_109
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 616
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc4a0a19b9609600800000000000000
+      internalID: 472994204600650943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_110
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 613
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27516c06ccc85be00800000000000000
+      internalID: 1059908096740431218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_111
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 613
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd0f3257bf7af6d0800000000000000
+      internalID: -2955909780079702588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_112
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 642
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b760cbba569475910800000000000000
+      internalID: 1826008874943776379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_113
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 607
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb0dc35d7b6ad370800000000000000
+      internalID: 8348103045305666526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_114
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 625
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86c743ffb3e8d730800000000000000
+      internalID: 4024216680615364234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_115
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 597
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df88e393acde73c0800000000000000
+      internalID: -4359804794128789552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_116
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 602
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc109ab2b6d4d0da0800000000000000
+      internalID: -5977036007761444405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_117
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 620
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430b6c669a597ef40800000000000000
+      internalID: 5757735203422777396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_118
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 582
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76677a009559e6ad0800000000000000
+      internalID: -2707062116507486617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_119
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 583
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f304ade692d42bcc0800000000000000
+      internalID: -3696807503768960961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 580
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8436957ab54f9610800000000000000
+      internalID: 1630098257270420622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_121
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 608
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aab41f4b4f513120800000000000000
+      internalID: 2391797654164388520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_122
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 579
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441b766c8fe9f0180800000000000000
+      internalID: -9146917526848425660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_123
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 572
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ab70799d9b64380800000000000000
+      internalID: -8987291662178338270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_124
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 559
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db0ac94d636c6b60800000000000000
+      internalID: 7740671180583603156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_125
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 602
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c45fb1e6a482e80800000000000000
+      internalID: -8203224884479439739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_126
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 566
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be98abcc7ef76ec0800000000000000
+      internalID: -3573607967348973904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_127
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 579
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7de51ca5e229cc0800000000000000
+      internalID: -3705848576046344197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_128
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 590
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e2559ef17487050800000000000000
+      internalID: 5798462722623745572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_129
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 554
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0433d0d696cd190800000000000000
+      internalID: -7936352526239842107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_130
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 561
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4299c5ef0c079ca30800000000000000
+      internalID: 4236040898722175268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_131
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 584
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c0120d864cc3880800000000000000
+      internalID: -8629806831501243234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_132
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 579
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8148598e3a08ed0800000000000000
+      internalID: -2413749180934383453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_133
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 541
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc3b984e4107ec30800000000000000
+      internalID: 4388477797633047741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_134
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 542
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e90101be320b4fa0800000000000000
+      internalID: -5815552025538000410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_135
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 538
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd1e5485ceb8a0f0800000000000000
+      internalID: -1105423952980861508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_136
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 538
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d2ed6a10f4b6ce0800000000000000
+      internalID: -1410947189737378436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_137
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 538
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2181989c1b1fc0150800000000000000
+      internalID: 5840308562685401106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_138
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 500
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ce11359e4b04c30800000000000000
+      internalID: 4341668954999221386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_139
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 525
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0963621cbb4520840800000000000000
+      internalID: 5188802886060357264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_140
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 513
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c68613f428ed440800000000000000
+      internalID: 4962547116051819570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_141
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04c0202adad31f50800000000000000
+      internalID: 6851060088537400333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_142
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 530
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f158e3671c73c250800000000000000
+      internalID: 5963746771470930417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_143
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 497
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e8e2056d8078b90800000000000000
+      internalID: -7239808159413531013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_144
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 497
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32117173a48e6c8d0800000000000000
+      internalID: -2826316310678925021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_145
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 497
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf8020398647ce80800000000000000
+      internalID: -8158474644926459981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_146
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 459
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c061d813e18345d0800000000000000
+      internalID: -3079474907817353019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_147
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 484
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fed6e3b001c0070800000000000000
+      internalID: 8073845872446533480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_148
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 456
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101f09bc5df341e80800000000000000
+      internalID: -8208866033313713919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_149
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 86
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e74d84d6ca94480800000000000000
+      internalID: -8914404402029887889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_150
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 93
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde37ec915539d550800000000000000
+      internalID: 6186034187811110620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_151
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c7307b6460bd220800000000000000
+      internalID: 2511608117977119854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_152
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 36
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c7d1ff9f9f698a0800000000000000
+      internalID: -6298572176708764662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_153
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 21
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bc7d7f70fb3c180800000000000000
+      internalID: -9096216781414478977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_154
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 25
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f7d101ef9996180800000000000000
+      internalID: -9121590253791117485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_space_155
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 240
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c487a20cf95da20800000000000000
+      internalID: 3086548767327407249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
