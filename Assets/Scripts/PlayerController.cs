@@ -22,8 +22,8 @@ public class PlayerController : MonoBehaviour
     void MoveForward()
     {
         transform.position += transform.right * speed * Time.deltaTime;
-        if (instances.PlayerRT && Math.Round(instances.PlayerRT.anchoredPosition.x % 1920) == 0 && check) { check = false; Debug.Log("Generate " + instances.PlayerRT.anchoredPosition.x); instances.generator.GeneratePlatforms(); }
-        else
+        if (instances.PlayerRT && Math.Round(instances.PlayerRT.anchoredPosition.x % 1920) <= 100 && check) { check = false; Debug.Log("Generate " + instances.PlayerRT.anchoredPosition.x); instances.generator.GeneratePlatforms(); }
+        if (Math.Round(instances.PlayerRT.anchoredPosition.x % 1920) > 100)
         {
             check = true;
         }
